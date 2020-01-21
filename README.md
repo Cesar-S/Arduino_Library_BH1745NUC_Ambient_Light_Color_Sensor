@@ -1,4 +1,3 @@
-[![CJMCU-1745](CJMCU-1745.png)]
 [![BH1745NUC](BH1745NUC_I2C.png)](https://store.ncd.io/product/bh1745nuc-digital-ambient-light-and-color-sensor-i2c-mini-module/)
 
 # BH1745NUC
